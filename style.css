@@ -9,6 +9,8 @@ body {
   font-family: arcade, monospace;
   font-size: 150%;
   text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .main-grid-container {
